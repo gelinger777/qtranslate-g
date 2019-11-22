@@ -1,4 +1,11 @@
-# qTranslate X #
+# qTranslate G #
+
+
+
+
+## We will try to update q-translate-x to q-translate-g  to keep it maintained for wordpress updates. ## 
+
+
 Developed by: qTranslate Team based on original code by Qian Qin
 Contributors: johnclause, chineseleper, Vavooon, grafcom
 Tags: multilingual, language, multi-language, multilanguage, bilingual, Polyglot, admin, tinymce, widget, switcher, i18n, l10n, professional, human, translation, service, WPML, WPGlobus, Polylang, Ceceppa Multilingua, qTranslate, zTranslate, mqTranslate, qTranslate Plus
